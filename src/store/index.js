@@ -11,6 +11,7 @@ let store = new Vuex.Store({
                 title: "Title 1",
                 price: "150",
                 article: "T1",
+                category: "Category 1",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -18,6 +19,7 @@ let store = new Vuex.Store({
                 title: "Title 2",
                 price: "170",
                 article: "T2",
+                category: "1",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -25,6 +27,7 @@ let store = new Vuex.Store({
                 title: "Title 3",
                 price: "200",
                 article: "T3",
+                category: "2",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -32,6 +35,7 @@ let store = new Vuex.Store({
                 title: "Title 4",
                 price: "230",
                 article: "T4",
+                category: "2",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -39,6 +43,7 @@ let store = new Vuex.Store({
                 title: "Title 5",
                 price: "120",
                 article: "T5",
+                category: "3",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -46,6 +51,7 @@ let store = new Vuex.Store({
                 title: "Title 6",
                 price: "220",
                 article: "T6",
+                category: "3",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -53,6 +59,7 @@ let store = new Vuex.Store({
                 title: "Title 7",
                 price: "180",
                 article: "T7",
+                category: "4",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             },
@@ -60,6 +67,7 @@ let store = new Vuex.Store({
                 title: "Title 8",
                 price: "200",
                 article: "T8",
+                category: "4",
                 available: true,
                 description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, nemo ducimus! Tempore omnis exercitationem, in commodi dignissimos magnam vero mollitia cupiditate repellat veniam, excepturi, sit ab laboriosam sapiente beatae perferendis!'
             }

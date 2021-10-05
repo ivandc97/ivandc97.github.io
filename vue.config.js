@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/'
+    publicPath: '/ivandc97.github.io/'
   }
